@@ -1,10 +1,10 @@
 #include <stdio.h>
-/** my first c coding
+/**
+ * Main(void) - int 
  *
- * int main(void) - Entry point
+ * Return - 0 (success)
  *
- * return - 0 (success)
- *
+ * Description: my first coding with c
  */
 int main(void)
 {
