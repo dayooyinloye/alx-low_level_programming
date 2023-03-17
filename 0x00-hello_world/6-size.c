@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
- * My second attempt at coding with C
+ * main - void,
  *
- * Displaying the size of data types
- *
+(* 
+ * Description: using the main function)?
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	char c;
