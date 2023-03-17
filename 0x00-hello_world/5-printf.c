@@ -1,9 +1,9 @@
 #include <stdio.h>
-/**
- * my first c coding
- * main: Entry point
+/* my first c coding
  *
- * return: 0 (success)
+ * main(void) - Entry point
+ *
+ * return - 0 (success)
  *
  */
 int main(void)
