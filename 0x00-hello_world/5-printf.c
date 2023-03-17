@@ -1,8 +1,9 @@
 #include <stdio.h>
-/**
- * My first attempt at coding with C
+/* My first attempt at coding with C
  *
- * Writing a simple printf function
+ * main - Entry point
+ *
+ * return - 0 (success)
  *
  */
 int main(void)
