@@ -1,9 +1,8 @@
 #include <stdio.h>
-
+#include <windows.h>
 /**
- * main - void,
- *
-(* 
+ * main - void
+(*
  * Description: using the main function)?
  * Return: Always 0 (success)
  */

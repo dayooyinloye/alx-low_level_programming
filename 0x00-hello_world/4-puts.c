@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
-(* 
+(*
  * Description: Printing a short sentence)?
  * Return: Always 0 (success)
  */
