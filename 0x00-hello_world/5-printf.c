@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * Main(void) - int 
+ * main - void,
+(*
+ * Description: the function main)?
  *
- * Return - 0 (success)
- *
- * Description: my first coding with c
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
