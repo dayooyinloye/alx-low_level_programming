@@ -1,6 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #include <unistd.h>
-#include <unistd.h>
-#include <fcntl.h>
 
 /**
  * main - entry point
@@ -10,8 +11,7 @@
  */
 int main(void)
 {
-	int c;
-	c =write("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+	fwrite("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 60, 1, stderr);
 	return (1);
 }
 
