@@ -1,4 +1,6 @@
 #include <unistd.h>
+#include <unistd.h>
+#include <fcntl.h>
 
 /**
  * main - entry point
@@ -8,8 +10,8 @@
  */
 int main(void)
 {
-	char message = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-	write(2, message, sizeof(message) - 1);
+	int c;
+	c =write("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
 	return (1);
 }
 
