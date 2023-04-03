@@ -5,7 +5,7 @@ ines (18 sloc)  259 Bytes
 /**
  * main - entry point
 (*
- * Description: print letters of the alphabet expect 'q' and 'e')?
+ * Description: print letters of the alphabet except 'q' and 'e')?
  *
  * Return: 0
  */
@@ -20,6 +20,6 @@ int main(void)
 		putchar(alphabet);
 	}
 
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
