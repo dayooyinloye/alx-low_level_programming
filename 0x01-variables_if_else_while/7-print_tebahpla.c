@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
-(* 
+(*
  * Description: main prints alphabet in reverse)?
  *
  * Return: 0
