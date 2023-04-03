@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *  * main - entry point
+ * main - entry point
 (*
  * Description: print hexadecimal numbers)?
  *
@@ -10,15 +10,15 @@
 
 int main(void)
 {
-    int n = 0;
-    char a;
-			
-	for(; n < 10; n++)
+	int n = 0;
+	char a;
+
+	for (; n < 10; n++)
 	{
 		putchar('0' + n);
-    	}
-				
-	for(a = 'A'; a <= 'F'; a++)
+	}
+
+	for (a = 'a'; a <= 'f'; a++)
 	{
 		putchar(a);
 	}
