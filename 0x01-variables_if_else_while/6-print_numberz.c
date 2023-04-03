@@ -18,7 +18,7 @@ int main(void)
 
 	for (; n < 10; n++)
 	{
-		printf((n % 10; + '0');
+		putchar('0' + n);
 	}
 	putchar('\n');
 	return (0);
