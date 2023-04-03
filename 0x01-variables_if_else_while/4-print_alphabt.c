@@ -1,3 +1,5 @@
+ines (18 sloc)  259 Bytes
+
 #include <stdio.h>
 
 /**
@@ -7,12 +9,14 @@
  *
  * Return: 0
  */
+
 int main(void)
 {
 	char alphabet; 
 
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
+		if (aplhabet != 'q' && alphabet 'e'
 		putchar(alphabet);
 	}
 
