@@ -5,7 +5,7 @@ ines (18 sloc)  259 Bytes
 /**
  * main - entry point
 (*
- * Description: print letters of the alphabet)?
+ * Description: print letters of the alphabet expect 'q' and 'e')?
  *
  * Return: 0
  */
